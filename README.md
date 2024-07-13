@@ -53,3 +53,14 @@ To start easydd, run the following command while being in the root of your user 
 ```
 python3 easydd.py
 ```
+
+If you see something like this, that means that the tool is running.
+
+![image](https://github.com/user-attachments/assets/2658b139-d6fc-4777-8d54-41756b6581af)
+
+Here, you will have to input your password. 
+
+After you have inputted your password, there will be a warning. Make sure to read it very carefully before proceeding.
+
+![image](https://github.com/user-attachments/assets/a97d3355-f639-4714-a4e6-f7245aaee336)
+
