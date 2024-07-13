@@ -68,6 +68,10 @@ Here, you have to specify where the ISO file is located.
 
 ![image](https://github.com/user-attachments/assets/b7511ee0-188b-4a86-ade5-2af9e9591217)
 
+You now have to specify to which drive are you flashing to. It has to start with something like sdc, sdd etc.
 
+![image](https://github.com/user-attachments/assets/20c823ed-219a-4ee0-848d-900fd1aca0f9)
+
+After that, another waring will pop up. Then your favorite linux dis
 
 
