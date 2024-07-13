@@ -7,7 +7,7 @@ Are you tired when you try to flash your favorite Linux distro, but don't feel l
 
 Well look no further, easydd does it all for you.
 
-# How to Download and Use?
+# How to Download?
 
 Arch Linux:
 ```
@@ -34,4 +34,22 @@ git clone https://github.com/stinkyfart69420/easydd
 cd
 cd easydd
 mv easydd.py ~/
+```
+
+Void Linux:
+```
+sudo xbps-install git
+git clone https://github.com/stinkyfart69420/easydd
+cd
+cd easydd
+mv easydd.py ~/
+``` 
+
+After you have ran those commands, you have installed easydd!
+
+# How to use?
+
+To start easydd, run the following command while being in the root of your user folder:
+```
+python3 easydd.py
 ```
