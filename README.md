@@ -64,3 +64,10 @@ After you have inputted your password, there will be a warning. Make sure to rea
 
 ![image](https://github.com/user-attachments/assets/a97d3355-f639-4714-a4e6-f7245aaee336)
 
+Here, you have to specify where the ISO file is located.
+
+![image](https://github.com/user-attachments/assets/b7511ee0-188b-4a86-ade5-2af9e9591217)
+
+
+
+
