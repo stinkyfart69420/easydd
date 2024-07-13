@@ -72,6 +72,11 @@ You now have to specify to which drive are you flashing to. It has to start with
 
 ![image](https://github.com/user-attachments/assets/20c823ed-219a-4ee0-848d-900fd1aca0f9)
 
-After that, another waring will pop up. Then your favorite linux dis
+After that, another waring will pop up. Then your favorite linux distro will be flashed to your USB stick.
 
+![image](https://github.com/user-attachments/assets/d7e67cbb-dbc7-4836-beab-bfe30dcc3db9)
 
+# Note:
+Contribuitions are welcome!
+
+Please open a pull request if you find a bug in the tool.
