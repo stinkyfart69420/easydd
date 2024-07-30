@@ -35,8 +35,8 @@ def main():
 
     confirmation = input(f"WARNING: All partitions on /dev/{drive} will be erased. Continue? (yes/no): ")
     if confirmation.lower() == 'yes':
-        os.system(f"sudo wipefs --all /dev/{drive}")
         os.system(f"sudo umount /dev/{drive}*")
+        os.system(f"sudo wipefs --all /dev/{drive}")
         flash_distro(iso_path, drive)
         print("Flashing complete.")
     else:
