@@ -12,8 +12,8 @@ Well look no further, easydd does it all for you.
 Arch Linux:
 ```
 sudo pacman -S git
-git clone https://github.com/stinkyfart69420/easydd
 cd
+git clone https://github.com/stinkyfart69420/easydd
 cd easydd
 mv easydd.py ~/
 ```
@@ -21,8 +21,8 @@ mv easydd.py ~/
 Any Ubuntu/Debian based distro:
 ```
 sudo apt install git -y
-git clone https://github.com/stinkyfart69420/easydd
 cd
+git clone https://github.com/stinkyfart69420/easydd
 cd easydd
 mv easydd.py ~/
 ```
@@ -30,8 +30,8 @@ mv easydd.py ~/
 Fedora:
 ```
 sudo dnf install git
-git clone https://github.com/stinkyfart69420/easydd
 cd
+git clone https://github.com/stinkyfart69420/easydd
 cd easydd
 mv easydd.py ~/
 ```
@@ -39,8 +39,8 @@ mv easydd.py ~/
 Void Linux:
 ```
 sudo xbps-install git
-git clone https://github.com/stinkyfart69420/easydd
 cd
+git clone https://github.com/stinkyfart69420/easydd
 cd easydd
 mv easydd.py ~/
 ``` 
@@ -79,4 +79,4 @@ After that, another waring will pop up. Then your favorite linux distro will be 
 # Note:
 Contribuitions are welcome!
 
-Please open a pull request if you find a bug in the tool.
+Please open a Issue if you find a bug in the tool.
